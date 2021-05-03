@@ -3,7 +3,6 @@ import { Link } from "gatsby";
 import HeaderMenu from "../components/HeaderMenu/HeaderMenu";
 import { withLayout, LayoutProps, menuItems } from "../components/Layout";
 import {
-  Button,
   Segment,
   Container,
   Grid,
@@ -19,88 +18,45 @@ const IndexPage = (props: LayoutProps) =>
         Link={Link} pathname={props.location.pathname} items={menuItems} inverted
       />
       <Container text>
-        <Header inverted as="h1">Gatsby 2.0 - Starter kit</Header>
-        <Header inverted as="h2">Typescript - Jest - Semantic UI</Header>
-        <Button primary size="huge">Get started!</Button>
-      </Container>
+        <Header inverted as="h1"><b>The 6th Column Project</b></Header>
+        <Header inverted as="h2">Creating the next evolution in technology interation</Header> 
+        Currently in stealth mode...
+     </Container>
     </Segment>
 
     {/* About this starter */}
     <Segment vertical className="stripe">
-      <Grid stackable verticalAlign="middle" className="container">
+      <Grid stackable verticalAlign="top" className="container">
         <Grid.Row>
           <Grid.Column width="8">
-            <Header>Lorem ipsum</Header>
+            <Header>automation</Header>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Porro laudantium ad, quae, perspiciatis ipsa distinctio.
-                </p>
-            <Header>Dolor sit amet</Header>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Porro laudantium ad, quae, perspiciatis ipsa distinctio.
-                </p>
+
+              Our projects follow a common theme of reducing human
+              toil. We believe that hyper automation and
+              personalization is fundamental to establishing a new,
+              more productive, enriching and cooperative relationship
+              among ourselves through our computing tools.
+
+            </p>
           </Grid.Column>
-          <Grid.Column width="6" floated="right">
-            {/* TODO replace with a pretty GIF */}
-            <Header>Lorem ipsum</Header>
+
+          <Grid.Column width="8" floated="right">
+            <Header>p2p</Header>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Porro laudantium ad, quae, perspiciatis ipsa distinctio.
-                </p>
-            <Header>Dolor sit amet</Header>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Porro laudantium ad, quae, perspiciatis ipsa distinctio.
-                </p>
+            
+            We cast our work in the peer-to-peer context.  We support
+            W3 initiatives, Open Source and focus on novel inter/intra
+            computing interactions and networking.
+
+            </p>
+
           </Grid.Column>
         </Grid.Row>
       </Grid>
     </Segment>
 
     {/* Key features */}
-    <Segment vertical className="stripe alternate feature">
-      <Grid columns="3" textAlign="center" divided relaxed stackable className="container">
-        <Grid.Row>
-          <Grid.Column>
-            <Header icon>
-              <Icon name="wizard"></Icon>
-              A kind of magic!
-            </Header>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Voluptas eaque at quae cupiditate aspernatur quibusdam!
-                  Distinctio quod non, harum dolorum earum molestias,
-                  beatae expedita aliquam dolorem asperiores nemo amet quaerat.
-                </p>
-          </Grid.Column>
-          <Grid.Column>
-            <Header icon>
-              <Icon name="wizard"></Icon>
-              A kind of magic!
-            </Header>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Voluptas eaque at quae cupiditate aspernatur quibusdam!
-                  Distinctio quod non, harum dolorum earum molestias,
-                  beatae expedita aliquam dolorem asperiores nemo amet quaerat.
-                </p>
-          </Grid.Column>
-          <Grid.Column>
-            <Header icon>
-              <Icon name="wizard"></Icon>
-              A kind of magic!
-            </Header>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Voluptas eaque at quae cupiditate aspernatur quibusdam!
-                  Distinctio quod non, harum dolorum earum molestias,
-                  beatae expedita aliquam dolorem asperiores nemo amet quaerat.
-                </p>
-          </Grid.Column>
-        </Grid.Row>
-      </Grid>
-    </Segment>
   </div>;
 
 export default withLayout(IndexPage);
