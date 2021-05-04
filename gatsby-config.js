@@ -1,7 +1,7 @@
 /* eslint-disable quotes */
 module.exports = {
   siteMetadata: {
-    title: `My website`,
+    title: `The 6th Column Project`,
     googleVerification: `abcdefz`,
     disqus: `gatsby-typescript`
   },
