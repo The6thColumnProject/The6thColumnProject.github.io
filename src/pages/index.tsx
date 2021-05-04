@@ -19,7 +19,7 @@ const IndexPage = (props: LayoutProps) =>
       />
       <Container text>
         <Header inverted as="h1"><b>The 6th Column Project</b></Header>
-        <Header inverted as="h2">Creating the next evolution in technology interation</Header> 
+        <Header inverted as="h2">Take your internet personally!</Header>
         Currently in stealth mode...
      </Container>
     </Segment>
@@ -34,9 +34,10 @@ const IndexPage = (props: LayoutProps) =>
 
               Our projects follow a common theme of reducing human
               toil. We believe that hyper automation and
-              personalization is fundamental to establishing a new,
-              more productive, enriching and cooperative relationship
-              among ourselves through our computing tools.
+              personalization is the key to establishing a new, more
+              productive internet. An internet that's more enriching and
+              a truer conduit of cooperative relationships. Our society
+              is woven through the fabric of technology - we can do better.
 
             </p>
           </Grid.Column>
@@ -44,10 +45,13 @@ const IndexPage = (props: LayoutProps) =>
           <Grid.Column width="8" floated="right">
             <Header>p2p</Header>
             <p>
-            
+
             We cast our work in the peer-to-peer context.  We support
-            W3 initiatives, Open Source and focus on novel inter/intra
-            computing interactions and networking.
+            initiatives like W3 and Open Source software.  We focus on
+            novel inter/intra computing tools, infrastructure,
+            networking and interactions. Decentralization liberates us
+            and allows technology to map to our society with greater
+            fidelity.
 
             </p>
 
