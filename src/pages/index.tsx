@@ -35,12 +35,11 @@ const IndexPage = (props: LayoutProps) =>
               Our projects follow a common theme of reducing human
               toil. We believe that hyper automation and
               personalization is the key to establishing a new, more
-              productive internet. An internet that's more enriching and
-              a truer conduit of cooperative relationships. Our society
-              is woven with the fabric of technology. 
-              <p>
-              We can do better
-              </p>
+              productive internet. An internet that's more enriching
+              and a truer conduit of cooperative relationships. Our
+              society is woven with the fabric of technology. It
+              should not entangle us but support us to think and work
+              at a higher level.<br/><br/> We can do better.
 
             </p>
           </Grid.Column>
