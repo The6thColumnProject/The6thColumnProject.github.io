@@ -37,7 +37,9 @@ const IndexPage = (props: LayoutProps) =>
               personalization is the key to establishing a new, more
               productive internet. An internet that's more enriching and
               a truer conduit of cooperative relationships. Our society
-              is woven through the fabric of technology - we can do better.
+              is woven with the fabric of technology. 
+
+              We can do better
 
             </p>
           </Grid.Column>
