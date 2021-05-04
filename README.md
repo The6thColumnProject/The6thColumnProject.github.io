@@ -6,18 +6,18 @@ This is the repository of the [the 6th column project](https://6thcolumnproject.
 
 ### Index
 
-- [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
-- [Making Changes](#making-changes)
-- [Building](#building)
-- [Deploying](#deploying)
-- [Important Information](#important-information)
+-  [Getting Started](#getting-started)
+-  [Dependencies](#dependencies)
+-  [Making Changes](#making-changes)
+-  [Building](#building)
+-  [Deploying](#deploying)
+-  [Important Information](#important-information)
 
 ## Getting Started
 
 The generated website is served out of the `gh-pages` branch of this repository.
 
-- `src/pages/index.tsx` is the entry point.
+-  `src/pages/index.tsx` is the entry point.
 
 
 ## Dependencies
