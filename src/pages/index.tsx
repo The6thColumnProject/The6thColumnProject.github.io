@@ -38,8 +38,9 @@ const IndexPage = (props: LayoutProps) =>
               productive internet. An internet that's more enriching and
               a truer conduit of cooperative relationships. Our society
               is woven with the fabric of technology. 
-
+              <p>
               We can do better
+              </p>
 
             </p>
           </Grid.Column>
