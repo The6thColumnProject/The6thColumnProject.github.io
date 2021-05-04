@@ -18,11 +18,10 @@ const AboutPage = () => {
 
           The philosophy of the 6th Column Project is that we can do
           more to create a seamless interaction between people and our
-          computing environment.  We also believe that computing as is
+          computing environment.  We also believe that computing is
           due for an evolutionary step change.  W3 and peer-to-peer
-          efforts are necessary tenets for us truly bring forth an era
-          where computing reduces toil even more profoundly and becomes
-          an integral part in cooperative problem solving. Aggressive
+          efforts are necessary tenets for us to truly bring forth an era
+          where computing reduces toil even more profoundly. Aggressive
           automation will greatly reduce the pain from incidental
           complexity, cumbersome interfaces and convoluted processes.
 
@@ -36,11 +35,11 @@ const AboutPage = () => {
               management systems for Wall Street.  Creating infrastructure
               supporting major FinTechs.</li>
 
-          <li><b>Pure science research:</b> Working in the worldwide national
-            laboratory system solving problems in energy and climate
-            science.  Building critical aspects of advanced research
-            energy fusion systems to architecting and building a
-            world-wide peer-to-peer system for the transport and
+          <li><b>Pure science research:</b> Working in the worldwide
+            national laboratory system, solving problems in energy and
+            climate science.  Building critical aspects of advanced
+            research energy fusion systems. Architecting and building
+            a world-wide peer-to-peer system for the transport and
             sharing of climate data, and computation of climate
             science models around the world. (Recipient of a Nobel
             Prize and R&D 100 award)</li>
@@ -49,9 +48,8 @@ const AboutPage = () => {
             streaming platforms, supporting millions of simultaneous
             clients around the world.
 
-            Building AI-Ops systems and scaling them to web-scale, for
-            the largest cloud provider in the world. Customer_Company
-            names...</li>
+            Building AI-Ops systems and scaling them to web-scale for
+            the largest cloud provider in the world.</li>
 
           </ul>
         </p>
@@ -65,10 +63,10 @@ const AboutPage = () => {
         The team has a shared vision of computing.  The confluence of
         technologies and the raised awareness and technical
         sophistication of the general populous has created the right
-        conditions to introduce compelling solutions.  The 6th Column
-        Project is crafting solutions that will relieve our current
-        fatigue with the status quo and empower us to solve problems
-        cooperatively.
+        conditions to introduce compelling solutions. The 6th Column
+        Project is crafting solutions that will relieve current
+        fatigue with the status quo and empower everyone to solve
+        problems more cooperatively.
 
         </p>
 
