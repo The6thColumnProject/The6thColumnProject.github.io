@@ -30,8 +30,8 @@ const AboutPage = () => {
           networks and the distributed web, we have the necessary base
           for us to bring forth a new era.  We will introduce a new
           model of computing. One where computing will do what we
-          imagined it would do; <mark>profoundly elevate the human
-          condition.</mark>
+          imagined it would do; profoundly elevate the human
+          condition.
 
         </p>
 
@@ -69,7 +69,7 @@ const AboutPage = () => {
         <p>
 
         The team has a shared vision of computing.  The confluence of
-        technologies and the magnitude of the challenges we face makes
+        technologies and the magnitude of the challenges we face make
         it encumbent upon us to think differently in order to create
         effective and compelling solutions.  The 6th Column Project is
         crafting solutions that will allow us to be ready to meet the
