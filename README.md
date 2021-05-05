@@ -26,7 +26,8 @@ This Website is generated with [Gatsby](https://www.gatsbyjs.com/).
 [Gatsby](https://www.gatsbyjs.com/) is written in [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) and uses [React](https://reactjs.org/) and [GraphQL](https://graphql.org/).
 
 To [set up your system](https://www.gatsbyjs.com/docs/tutorial/part-zero/) set up your system you will need to install [node](https://nodejs.org/en/about/).
-Once this is done we may install [Gatsby](https://www.gatsbyjs.com/) (globally).
+
+Once node is installed, install [Gatsby](https://www.gatsbyjs.com/) (globally).
 
 ```bash
 npm install -g gatsby-cli
