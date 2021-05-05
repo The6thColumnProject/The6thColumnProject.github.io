@@ -33,7 +33,7 @@ npm install -g gatsby-cli
 ```
 
 You will also need the `gh-pages` module installed before you can make any changes.<br/>
-(Do the following command from the root directory of this project)
+(:warning: Do the following command from the root directory of this project)
 
 ``` bash
 npm install gh-pages
@@ -46,8 +46,8 @@ npm install gh-pages
 * You may make changes to the sytlesheets in the `src/css/` directory.
 
 Launch an http server on [localhost](http://localhost:8000).<br/>
-Using the following command you will launch a gatsby node.js http server that will update as you `develop` the site.<br/>
-(Do the following command from the root directory of this project)
+Using the following command you will launch a gatsby's node.js http server. It will update as you `develop` :wink: the site.<br/>
+(:warning: Do the following command from the root directory of this project)
 
 ``` bash
 gatsby develop
