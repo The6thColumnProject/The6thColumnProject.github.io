@@ -18,8 +18,10 @@ const IndexPage = (props: LayoutProps) =>
         Link={Link} pathname={props.location.pathname} items={menuItems} inverted
       />
       <Container text>
-        <Header inverted as="h1"><b>The 6th Column Project</b></Header>
-        <Header inverted as="h2">Take your internet personally!</Header>
+        <Header inverted as="h1"><b class="under_gold">The </b><b class="under_green">6th Column </b>
+<b class="under_red">Project</b></Header>
+        <Header inverted as="h2">Take <b class="under_gold">your </b><b class="under_green">internet </b>
+<b class="under_red">personally</b>!</Header>
         Currently in stealth mode...
      </Container>
     </Segment>
@@ -39,7 +41,7 @@ const IndexPage = (props: LayoutProps) =>
               and a truer conduit of cooperative relationships. Our
               society is woven with the fabric of technology. It
               should not entangle us but support us to think and work
-              at a higher level.<br/><br/> We can do better.
+              at a higher level.<br/><br/> <b class="under_red">We can do better</b>.
 
             </p>
           </Grid.Column>

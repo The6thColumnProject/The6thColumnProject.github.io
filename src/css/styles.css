@@ -73,6 +73,24 @@
   display: none;
 }
 
+.under_red {
+  text-decoration: underline;
+  -webkit-text-decoration-color: red; /* Safari */
+  text-decoration-color: red;
+}
+
+.under_gold {
+  text-decoration: underline;
+  -webkit-text-decoration-color: gold; /* Safari */
+  text-decoration-color: gold;
+}
+
+.under_green {
+  text-decoration: underline;
+  -webkit-text-decoration-color: green; /* Safari */
+  text-decoration-color: green;
+}
+
 @media only screen and (max-width: 700px) {
   .masthead.segment {
     min-height: 350px;
