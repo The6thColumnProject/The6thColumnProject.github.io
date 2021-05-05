@@ -11,7 +11,6 @@ This is the repository of the [the 6th column project](https://6thcolumnproject.
 - [Making Changes](#making-changes)
 - [Building](#building)
 - [Deploying](#deploying)
-- [Important Information](#important-information)
 
 ## Getting Started
 
