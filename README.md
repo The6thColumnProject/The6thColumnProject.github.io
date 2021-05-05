@@ -24,7 +24,7 @@ The generated website is served out of the `gh-pages` branch of this repository.
 This Website is generated with [Gatsby](https://www.gatsbyjs.com/).
 [Gatsby](https://www.gatsbyjs.com/) is written in [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) and uses [React](https://reactjs.org/) and [GraphQL](https://graphql.org/).
 
-To [set up your system](https://www.gatsbyjs.com/docs/tutorial/part-zero/) set up your system you will need to install [node](https://nodejs.org/en/about/).
+To [set up your system](https://www.gatsbyjs.com/docs/tutorial/part-zero/) you will need to install [node](https://nodejs.org/en/about/).
 
 Once node is installed, install [Gatsby](https://www.gatsbyjs.com/) (globally).
 
@@ -32,7 +32,8 @@ Once node is installed, install [Gatsby](https://www.gatsbyjs.com/) (globally).
 npm install -g gatsby-cli
 ```
 
-You will also need the `gh-pages` module installed before you can make any changes.
+You will also need the `gh-pages` module installed before you can make any changes.<br/>
+(Do the following command from the root directory of this project)
 
 ``` bash
 npm install gh-pages
@@ -40,12 +41,13 @@ npm install gh-pages
 
 ## Making Changes
 
-* Clone this repository
-* only make changes to the files under the `src/pages/` directory.
+* Clone this repository (be sure you have the dependencies :point_up:. Particularly `gh-pages`)
+* Make changes to the files under the `src/pages/` directory.
 * You may make changes to the sytlesheets in the `src/css/` directory.
 
-Launch an http server on [localhost](http://localhost:8000) (from the root directory of this
-project), so that you may serve up the generated pages locally.
+Launch an http server on [localhost](http://localhost:8000).<br/>
+Using the following command you will launch a gatsby node.js http server that will update as you `develop` the site.<br/>
+(Do the following command from the root directory of this project)
 
 ``` bash
 gatsby develop
