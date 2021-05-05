@@ -16,14 +16,23 @@ const AboutPage = () => {
       <Segment vertical>
         <p>
 
-          The philosophy of the 6th Column Project is that we can do
-          more to create a seamless interaction between people and our
-          computing environment.  We also believe that computing is
-          due for an evolutionary step change.  W3 and peer-to-peer
-          efforts are necessary tenets for us to truly bring forth an era
-          where computing reduces toil even more profoundly. Aggressive
-          automation will greatly reduce the pain from incidental
-          complexity, cumbersome interfaces and convoluted processes.
+          The philosophy of the 6th Column Project is simply <i>better
+          living through technology</i>. We believe the path to
+          getting there is by reducing the friction and needless toil
+          we experience in the current state of computing. We endeavor
+          to create more seamless interaction between people and our
+          computing environments. We get there not necessarily from a
+          UI/UX standpoint but from re-imaginig computing from first
+          principles. We believe that computing is ripe for an
+          evolutionary step change. With the advent of accessible and
+          powerful AI, W3 and peer-to-peer networks and the
+          distributed web, we have the necessary base for us to bring
+          forth a new era.  One where computing will do what we
+          imagined it would do and profoundly elevate the human
+          condition. Aggressive automation will reduce the pain from
+          incidental complexity. Hyper personalization makes our tools
+          our partners and fosters meaningful human social
+          collaboration.
 
         </p>
 
@@ -32,7 +41,7 @@ const AboutPage = () => {
           Our team has consistently solved big problems in various areas of computing at scale.
           <ul>
             <li><b>Financial sector:</b> Building trading and portfolio
-              management systems for Wall Street.  Creating infrastructure
+              management systems for Wall Street. Creating robust infrastructure
               supporting major FinTechs.</li>
 
           <li><b>Pure science research:</b> Working in the worldwide
@@ -61,12 +70,11 @@ const AboutPage = () => {
         <p>
 
         The team has a shared vision of computing.  The confluence of
-        technologies and the raised awareness and technical
-        sophistication of the general populous has created the right
-        conditions to introduce compelling solutions. The 6th Column
-        Project is crafting solutions that will relieve current
-        fatigue with the status quo and empower everyone to solve
-        problems more cooperatively.
+        technologies and the magnitude of the challenges we face makes
+        it encumbent upon us to think differently in order to create
+        effective and compelling solutions.  The 6th Column Project is
+        crafting solutions that will allow us to be ready to meet the
+        future.
 
         </p>
 
