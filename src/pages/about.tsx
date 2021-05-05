@@ -23,16 +23,15 @@ const AboutPage = () => {
           to create more seamless interaction between people and our
           computing environments. We get there not necessarily from a
           UI/UX standpoint but from re-imaginig computing from first
-          principles. We believe that computing is ripe for an
-          evolutionary step change. With the advent of accessible and
-          powerful AI, W3 and peer-to-peer networks and the
-          distributed web, we have the necessary base for us to bring
-          forth a new era.  One where computing will do what we
-          imagined it would do and profoundly elevate the human
-          condition. Aggressive automation will reduce the pain from
-          incidental complexity. Hyper personalization makes our tools
-          our partners and fosters meaningful human social
-          collaboration.
+          principles. We focus on aggressive automation and hyper
+          personalization. We believe that computing is ripe for an
+          evolutionary step change. With the advent of utility
+          computing, accessible and powerful AI, W3 and peer-to-peer
+          networks and the distributed web, we have the necessary base
+          for us to bring forth a new era.  We will introduce a new
+          model of computing. One where computing will do what we
+          imagined it would do; <mark>profoundly elevate the human
+          condition.</mark>
 
         </p>
 

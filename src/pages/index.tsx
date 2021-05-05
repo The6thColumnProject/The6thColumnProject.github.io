@@ -41,7 +41,7 @@ const IndexPage = (props: LayoutProps) =>
               and a truer conduit of cooperative relationships. Our
               society is woven with the fabric of technology. It
               should not entangle us but support us to think and work
-              at a higher level.<br/><br/> <b class="under_red">We can do better</b>.
+              at a higher level.<br/><br/>
 
             </p>
           </Grid.Column>

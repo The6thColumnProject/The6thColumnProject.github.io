@@ -73,6 +73,10 @@
   display: none;
 }
 
+mark {
+  background-color: #c0ffc8;
+}
+
 .under_red {
   text-decoration: underline;
   -webkit-text-decoration-color: red; /* Safari */
