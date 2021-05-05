@@ -51,6 +51,52 @@ project), so that you may serve up the generated pages locally.
 gatsby develop
 ```
 
+once the server starts up
+
+
+``` bash
+mgf@serenity:[The6thColumnProject.github.io]:[main$✓]:[89228]> gatsby develop
+success open and validate gatsby-configs - 0.026s
+success load plugins - 1.272s
+success onPreInit - 0.008s
+success initialize cache - 0.013s
+success copy gatsby files - 0.057s
+success onPreBootstrap - 0.008s
+success createSchemaCustomization - 0.026s
+success source and transform nodes - 0.133s
+success building schema - 0.297s
+success createPages - 0.038s
+success createPagesStatefully - 0.060s
+success onPreExtractQueries - 0.004s
+success update schema - 0.026s
+success extract queries from components - 0.284s
+success write out requires - 0.033s
+success write out redirect data - 0.002s
+success Build manifest and related icons - 0.002s
+success onPostBootstrap - 0.019s
+⠀
+info bootstrap finished - 7.124 s
+⠀
+success run queries - 0.188s - 8/8 42.49/s
+warn Browserslist: caniuse-lite is outdated. Please run next command `npm update`
+⠀
+You can now view The 6th Column Project in the browser.
+⠀
+  http://localhost:8000/
+⠀
+View GraphiQL, an in-browser IDE, to explore your site's data and schema
+⠀
+  http://localhost:8000/___graphql
+⠀
+Note that the development build is not optimized.
+To create a production build, use gatsby build
+⠀
+success Building development bundle - 5.856s
+
+```
+
+Then point your browser to `http://localhost:8000` to view the rendered site.
+
 ## Building
 
 You may build (generate) the site explicitly by running...
