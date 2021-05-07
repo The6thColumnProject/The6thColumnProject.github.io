@@ -1,4 +1,4 @@
-# [The 6th Column Project](https://6thcolumnproject.com/) website
+# ![6thcolum](./assets/6thcolumn_banner.png)
 
 This is the repository of the [the 6th column project](https://6thcolumnproject.com/) website.
 
