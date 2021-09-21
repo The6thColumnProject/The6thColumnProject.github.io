@@ -53,9 +53,9 @@ const IndexPage = (props: LayoutProps) =>
             We cast our work in the peer-to-peer context.  We support
             initiatives like W3 and Open Source software.  We focus on
             novel inter/intra computing tools, infrastructure,
-            networking and interactions. Decentralization liberates us
-            and allows technology to map to our society with greater
-            fidelity.
+            networking and interactions. We believe decentralization
+            better maps to our society and is more fertile ground for
+            new modes of collaboration and problem solving.
 
             </p>
 
