@@ -1,7 +1,7 @@
 ---
 title: Take Control
 createdDate: '2017-07-06'
-updatedDate: '2021-07-06'
+updatedDate: '2021-09-21'
 author: Max G. Faraday
 tags:
   - privacy
@@ -9,7 +9,7 @@ tags:
   - automation
   - personalization
 image: lego_man_taking_control_key.jpeg
-draft: false
+draft: true
 ---
 
 My awesome article
